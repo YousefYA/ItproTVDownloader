@@ -1,8 +1,6 @@
 #/bin/python3
 """
-Date : 5/15/2021
-Place : India
-Author : Jayapraveen AR
+
 Program aim : To download course videos from ITProtv website
 Version : 1.0.5
 ToDo:
